@@ -8,7 +8,7 @@ This repository showcases projects completed using Python, SQL, Excel, Power Que
 
 # About Me
 
-I am a Data Analyst with a background in Molecular Biologyز My expertise includes transforming raw data into meaningful insights through data analysis, visualization, and reporting.
+I am a Data Analyst with a background in Molecular Biology, My expertise includes transforming raw data into meaningful insights through data analysis, visualization, and reporting.
 
 ### Technical Skills
 
@@ -156,6 +156,22 @@ Performed SQL-based analysis on Company-Product-Sales datasets using joins, aggr
 
 🔗 GitHub Repository:
 [https://github.com/GhadaElfeki77/Company-Product-Sales-.git]
+
+## 12.🚀Healthcare Patient Records Analysis
+
+### Project Overview
+Using SQL Server and Power BI, I analyzed healthcare encounter data and built an interactive dashboard to monitor patient activity, insurance coverage, claim costs, and clinical trends.
+
+### Skills Used
+🔹 SQL Data Analysis
+🔹 Power BI Dashboard Development
+🔹 DAX Measures & KPIs
+🔹 DirectQuery Data Modeling
+🔹 Healthcare Insights & Visualization
+
+🔗 GitHub Repository:
+[https://github.com/GhadaElfeki77/Healthcare-Patient-Records-Analysis.git]
+
 
 ---
 
